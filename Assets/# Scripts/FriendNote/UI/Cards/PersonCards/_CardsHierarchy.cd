@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="FriendNote.UI.Cards.UI_PersonCard_WorkPosition" Collapsed="true">
+    <Position X="6.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAEAAAAAIAAAAAAAAAQACABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\EditableCards\UI_PersonCard_WorkPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_PersonCard&lt;T&gt;" Collapsed="true">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAABCgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\EditableCards\UI_PersonCard.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_PersonCard_Education" Collapsed="true">
+    <Position X="13.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAEAAAACAAAAAAAEAMAAEAAAAAABAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\EditableCards\UI_PersonCard_Education.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_PersonCard_Goal" Collapsed="true">
+    <Position X="18" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACAAAAAEIAAAAAAAAAEAAAAAAAAAAAQAAAAAAAAAkA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\EditableCards\UI_PersonCard_Goal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_PersonCard_Interest" Collapsed="true">
+    <Position X="9" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEIABAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\EditableCards\UI_PersonCard_Interest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_PersonCard_Residence" Collapsed="true">
+    <Position X="11.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAQAAAAAAAAAAAAAAAgIEAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\EditableCards\UI_PersonCard_Residence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_PersonCard_Skill" Collapsed="true">
+    <Position X="15.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAMAAAAAAAAAAEAAgAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\EditableCards\UI_PersonCard_Skill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_Card&lt;T&gt;" Collapsed="true">
+    <Position X="14.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAFAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\UI_Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_DataPanel" Collapsed="true">
+    <Position X="14.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\UI_DataPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_PersonCard_ContactInfo" Collapsed="true">
+    <Position X="20.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEQACAQAAAAEAAAEAEAECAAAIAAAAAAAAgAE=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\PersonCards\UI_PersonCard_ContactInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Cards.UI_Card_PersonBasicInfo" Collapsed="true">
+    <Position X="22.5" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAgAAABAEAAgAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Cards\UI_Card_PersonBasicInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

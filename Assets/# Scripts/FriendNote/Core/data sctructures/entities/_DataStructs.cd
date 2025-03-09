@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FriendNote.Core.DTO.Address" Collapsed="true">
+    <Position X="8.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAAAAAAAAAAAIIAAAAAAAAEIAAAAAAAIARAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\Address.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.Core.DTO.ContactInfo" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAEAAEAAAAAAAAAAACAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\ContactInfo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.Core.DTO.Education" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAgAAAAAAAAEACAAAAAwCAAAAAAAAAAQAEAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\Education.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.Core.DTO.Goal" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAgAAAEAACAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\Goal.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.Core.DTO.Interest" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAEAAAAAAQAAAAAAAABAAAAAAAACAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\Interest.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.Core.DTO.PersonBasicInfo" Collapsed="true">
+    <Position X="8.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABACAAAAAAAACAAAgAAAQABAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\PersonBasicInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.Core.DTO.Residence" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAAAAAAAgCAAAAAACIAAAAEAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\Residence.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.Core.DTO.Skill" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAECAAAAAQAAAAAAAABAAAAAAAACAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\Skill.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.Core.DTO.WorkPosition" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="8.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQCCAAAAAAAAEAAAAAAAgCAAAAAAAAAAAIEAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\WorkPosition.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.Core.DTO.EntityBase" Collapsed="true">
+    <Position X="5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\EntityBase.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="FriendNote.Core.DTO.IPersonRelatedInfo" Collapsed="true">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\data sctructures\entities\IPersonRelatedInfo.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

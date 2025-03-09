@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FriendNote.Data.Repositories.SQLiteRepoBase" Collapsed="true">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAIAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\DAL\Repositories\SQLiteRepoBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.Data.Repositories.SQLitePersonRelatedInfoRepo&lt;Tdto, Torm1, Torm2&gt;" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAABBAAAAAABAAAAAEAAAAEAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\DAL\Repositories\SQLitePersonRelatedInfoRepo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.Data.Repositories.SQLitePersonRepo" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAAAAAAAAAAAABBAAAAAABAAAAAAAAEAEAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\DAL\Repositories\SQLitePersonRepo.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="FriendNote.Data.Repositories.IPersonRepository">
+    <Position X="0.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\repositories\IPersonRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FriendNote.Data.Repositories.IPersonRelatedInfoRepository&lt;T&gt;">
+    <Position X="2.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\Core\repositories\IPersonRelatedInfoRepository.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

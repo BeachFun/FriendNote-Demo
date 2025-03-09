@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FriendNote.UI.Pages.EditPage&lt;T&gt;" Collapsed="true">
+    <Position X="23" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACIAAAAAGDBAgQhAAAAIECGAAAAAgAAQA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EditPage.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EditPage_PersonEducation" Collapsed="true">
+    <Position X="18.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAhABAAAAAAEAAAAAAAgBAQgQAAIAACEAAAAACBAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EditPage_PersonEducation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EditPage_PersonGoal" Collapsed="true">
+    <Position X="23" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAAFAAAAAgAAAAAAAgAAAAAACEAAAgACAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EditPage_PersonGoal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EditPage_PersonProfile" Collapsed="true">
+    <Position X="29.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgAJAAIAAAACAAAAQEAAAIAQhgAAAAAiEAAAABCEAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EditPage_PersonProfile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EditPage_PersonInterest" Collapsed="true">
+    <Position X="27.5" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgABAAAAAAAAFAAAAAAACAAAgAAAACACEAAAAACAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EditPage_PersonInterest.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EditPage_PersonResidence" Collapsed="true">
+    <Position X="16.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAAAAEAgAAEAAAAAEgAAAIAACFAAAAACAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EditPage_PersonResidence.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EditPage_PersonSkill" Collapsed="true">
+    <Position X="20.75" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QgABAAAAAAAAFAABAAAACAAAgAAAACACEAAAAACAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EditPage_PersonSkill.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EditPage_PersonWorkPosition" Collapsed="true">
+    <Position X="25.25" Y="7.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAgAAAAAAgAAAAAACAEgAAAAAACEAAAQACBAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EditPage_PersonWorkPosition.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.InfoPage" Collapsed="true">
+    <Position X="7.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAACAAgAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\InfoPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EntityRelatedInfoPage&lt;T&gt;" Collapsed="true">
+    <Position X="6" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAAAAAAAIAAAACBAEAACBAAAAAAAAAAYAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\EntityRelatedInfoPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.InfoPage_PersonCareer" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\InfoPage_PersonCareer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.InfoPage_PersonEducation" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\InfoPage_PersonEducation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.InfoPage_PersonGoals" Collapsed="true">
+    <Position X="11.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\InfoPage_PersonGoals.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.InfoPage_PersonProfile" Collapsed="true">
+    <Position X="14" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgABAAAAEAAAwAIAAAAGAAACgABEAACAAAAgAIAEAEE=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\InfoPage_PersonProfile.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.UI.Pages.InfoPage_PersonInterests" Collapsed="true">
+    <Position X="0.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\InfoPage_PersonInterests.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.InfoPage_PersonResidences" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\InfoPage_PersonResidences.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.InfoPage_PersonSkills" Collapsed="true">
+    <Position X="9.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Info Pages\InfoPage_PersonSkills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.Page" Collapsed="true">
+    <Position X="16.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgACAAAAAAAAJAAAAAAAgAAAAAAAAAAIAAAAAACACAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Page.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FriendNote.UI.Pages.Page_PersonList" Collapsed="true">
+    <Position X="32" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQhAAAAACAAAAAAEIAAAAAAAAAAAQAAAQAACEAAAEA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Page_PersonList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.RelatedInfoEditPage&lt;T&gt;" Collapsed="true">
+    <Position X="23" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\RelatedInfoEditPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FriendNote.UI.Pages.EntityEditPage&lt;T&gt;" Collapsed="true">
+    <Position X="23" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Edit Pages\EntityEditPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FriendNote.UI.Pages.IPageUpdatable" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\# Scripts\FriendNote\UI\Pages\Interface\IPageUpdatable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
