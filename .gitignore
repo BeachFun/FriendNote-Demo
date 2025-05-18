@@ -10,8 +10,6 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 /NDepend[Oo]ut/
-/ProjectSettings/
-/Packages/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
@@ -76,5 +74,3 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 /NDependOut/*
 /.utmp
-id_ed25519
-id_ed25519.pub
